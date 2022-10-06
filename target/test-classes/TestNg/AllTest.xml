@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+<!--    <parameter name="username" value="GC_1"/>-->
+<!--    <parameter name="password" value="G33con0404"/>-->
+<!--    <parameter name="firstname" value="David"/>-->
+<!--    <parameter name="surname" value="Jackson"/>-->
+<!--    <parameter name="email" value="jackson123@gmail.com"/>-->
+
+		
+    <classes>
+      <class name="org.SEF_Compassion.TestCases.CompassionCommitmentGlobal_Individual"/>
+      <class name="org.SEF_Compassion.TestCases.CompassionCommitmentRN_Individual"/>
+      <class name="org.SEF_Compassion.TestCases.CompassionOnlyConstituent"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,6 @@
+org\SEF_Compassion\TestCases\BaseClass.class
+org\SEF_Compassion\TestCases\CompassionCommitmentGlobal_Individual.class
+org\SEF_Compassion\Utilities\Utilities.class
+org\SEF_Compassion\Config\PropertiesFile.class
+org\SEF_Compassion\TestCases\CompassionCommitmentRN_Individual.class
+org\SEF_Compassion\TestCases\CompassionOnlyConstituent.class
